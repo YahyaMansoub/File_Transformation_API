@@ -141,12 +141,10 @@ React_Frontend/
 
 ## 📄 License
 
-MIT License - Feel free to use this project for learning and development!
+i guess u can use it LOL!
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to submit issues and pull requests.
+I mean i still just started u can contribute after i guess !
 
----
 
-Made with ❤️ using React + Go
